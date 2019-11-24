@@ -10,7 +10,7 @@ echo
 printf "	$lal [ 1 ]$hara Name\n"
 printf "	$lal [ 2 ]$hara Age\n"
 printf "	$lal [ 3 ]$hara Shellphish\n"
-printf "	$lal [ 4 ]$hara Ogyoutube\n
+printf "	$lal [ 4 ]$hara Ogyoutube\n"
 printf "	$lal [ 5 ]$hara Update tool\n"
 echo
 echo -e -n "$pila Select >> "
