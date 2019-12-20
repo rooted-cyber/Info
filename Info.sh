@@ -12,7 +12,7 @@ printf "	$lal [ 2 ]$hara Age\n"
 printf "	$lal [ 3 ]$hara Shellphish\n"
 printf "	$lal [ 4 ]$hara Ogyoutube\n"
 printf "	$lal [ 5 ]$hara PUBG\n"
-printf "	$lal [ 6 ]$hara Some full forms\n
+printf "	$lal [ 6 ]$hara Some full forms\n"
 printf "	$lal [ 7 ]$hara Update tool\n"
 echo
 echo -e -n "$pila Select >> "
