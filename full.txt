@@ -52,3 +52,11 @@ pu b g
 pu(pura) b(bakwaas) g(game)
 pura bakwaas game
 pubg = pura bakwaas game
+
+chutiya :-
+
+cutiya
+cut iya
+cut ( katna ) iya ( liya )
+cut [ { katna } (kat) ] liya
+kat liya
