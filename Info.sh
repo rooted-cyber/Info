@@ -12,8 +12,9 @@ printf "	$lal [ 2 ]$hara Age\n"
 printf "	$lal [ 3 ]$hara Shellphish\n"
 printf "	$lal [ 4 ]$hara Ogyoutube\n"
 printf "	$lal [ 5 ]$hara PUBG\n"
-printf "	$lal [ 6 ]$hara Some full forms\n"
-printf "	$lal [ 7 ]$hara Update tool\n"
+printf '	$lal [ 6 ]$hara Carding\n"
+printf "	$lal [ 7 ]$hara Some full forms\n"
+printf "	$lal [ 8 ]$hara Update tool\n"
 echo
 echo -e -n "$pila Select >> "
 read hi
@@ -43,11 +44,16 @@ printf "Saved pubg in sdcard"
 termux-open https://raw.githubusercontent.com/rooted-cyber/Info/master/pubg.txt
 fi
 if [ $hi -eq 6 ];then
+cat carding.txt >> /sdcard/carding.txt
+printf "Saved carding in sdcard"
+termux-open https://raw.githubusercontent.com/rooted-cyber/Info/master/carding.txt
+fi
+if [ $hi -eq 7 ];then
 cat full.txt >> /sdcard/full.txt
 printf "Saved pubg in sdcard"
 termux-open https://raw.githubusercontent.com/rooted-cyber/Info/master/full.txt
 fi
-if [ $hi -eq 7 ];then
+if [ $hi -eq 8 ];then
 cd ~
 rm -rf Info
 printf "\033[92m [+] Updating...."
