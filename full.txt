@@ -160,3 +160,41 @@ Carder = tum bewkuf ho
 
 PS Carder = Pagal sun tum bewkuf ho
 
+2 + 2 = 6
+
+L.H.S
+
+2 -- nmbr
+
+nmbr + nmbr 
+
++ -- symbol
+
+nmbr symbol nmbr 
+
+nmbr -- one word
+
+symbol -- one word
+
+one word one word one word
+
+
+word word word
+
+
+2 -- nmbr -- symbol -- word
+
+
+word ( 2 ) word ( 2 ) word ( 2 )
+
+
+2 2 2
+
+2 + 2 + 2
+
+2 +2 + 2 = 6
+
+R.H.S
+6
+
+LHS = RHS
